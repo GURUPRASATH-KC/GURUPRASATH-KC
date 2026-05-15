@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guruprasath K C</h1>
+<h1 align="center">Hi 👋, I'm GURUPRASATH K C</h1>
 <h3 align="center">⚡ Electrical & Electronics Engineering Student | Embedded Systems Enthusiast | Aspiring Developer</h3>
 
 <p align="center">
