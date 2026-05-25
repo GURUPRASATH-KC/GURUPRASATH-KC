@@ -15,6 +15,8 @@
 - 💻 Currently learning **Java** and **Data Structures & Algorithms**
 - 🌱 Building real-world projects that bridge hardware and software
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/guruprasath-k-c-9b5031317/)
+- 🔗 Connect with me on [Leetcode](https://leetcode.com/u/GURUPRASATH_K_C/)
+
 
 ---
 
