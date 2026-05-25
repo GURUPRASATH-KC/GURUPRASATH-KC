@@ -61,6 +61,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUPRASATH-KC&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GURUPRASATH_K_C?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
 ---
 
 ## 🤝 Connect with Me
